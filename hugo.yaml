@@ -1,5 +1,7 @@
 # Hugo configuration file
-title: My Site
+title: Poulp
+baseURL: https://poulp.dev
+laguageCode: en-us
 
 # import hextra as module
 module:
